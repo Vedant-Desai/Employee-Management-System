@@ -12,7 +12,7 @@ const cors = require("cors");
 
 // Middleware to allow cross-origin requests
 const corsOptions = {
-  origin: "https://mern-auth-curd-app.vercel.app",
+  origin: "http://localhost:5000",
   methods: "GET,POST,PUT,DELETE,HEAD,OPTIONS,PATCH",
   credentials: true,
 };
