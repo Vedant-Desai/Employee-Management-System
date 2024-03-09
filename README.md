@@ -11,13 +11,10 @@ Enable managers to create, update, and delete departments through dedicated page
 ### 3. Employee Overview
 Implement a page displaying all employees, accessible to managers only, for a comprehensive view of the workforce.
 
-### 4. Employee Details
-Create a detailed page or model providing in-depth information about employees, accessible to individual employees for their own details.
-
-### 5. Employee Filtering
+### 4. Employee Filtering
 Integrate a filter button using API endpoints to sort employees based on location and name in ascending and descending order. This ensures efficient filtering without relying on client-side JavaScript code.
 
-### 6. Department Assignment
+### 5. Department Assignment
 Facilitate managers in assigning departments to employees through an intuitive interface.
 
 ## Backend
