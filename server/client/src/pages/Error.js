@@ -14,7 +14,6 @@ const Error = () => {
           </p>
           <div className="btns">
             <NavLink to="/">return home</NavLink>
-            {/* <NavLink to="/contact">report problem</NavLink> */}
           </div>
         </div>
       </section>
